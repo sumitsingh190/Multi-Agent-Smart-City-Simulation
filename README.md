@@ -185,5 +185,7 @@ Advanced agent evaluation metrics
 🔹 Author
 
 Sumit Singh
+
 AI & Software Engineering Enthusiast
+
 Focused on Agentic AI, Intelligent Systems, and Simulations
